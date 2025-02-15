@@ -99,11 +99,11 @@ Standard Schema がある世界
 
 連携するライブラリは Standard Schema 向けの `Resolver` や `Plugin` だけ
 
-提供すれば OK! 🎉
+提供すれば OK
 
 ---
 
-`Resolver` をたくさん作らなくていい！
+`Resolver` をたくさん作らなくていい 🎉🎉🎉
 
 ---
 
@@ -181,7 +181,7 @@ img[src="code-1.png"] {
 
 ---
 
-Zod、Valibot、ArkType とひとつの `Resolver` で連携できた！ 🎉
+Zod、Valibot、ArkType とひとつの `Resolver` で連携できる
 
 ---
 
